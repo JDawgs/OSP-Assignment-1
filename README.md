@@ -1,2 +1,3 @@
 # OSP-Assignment-1
-OSP assignment 1 files
+James Leong S3906993
+https://github.com/JDawgs/OSP-Assignment-1/
